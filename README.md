@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/6391152/190934860-1dd501a5-6a6f-457f-acb7-3d1c1fb99ca2.png)
+
 # a-haptics
 haptics component for A-Frame, shamelessly stolen from sorskoot
 
